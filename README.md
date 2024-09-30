@@ -1,4 +1,4 @@
-# lab3: Iris Image Classification
+ Iris Image Classification
 
 ## Purpose
 - Consolidate understanding of how to build an image classifier using Keras's `Sequential` model
